@@ -1,0 +1,6 @@
+[submodule "eiffel-flour"]
+	path = eiffel-flour
+	url = git@github.com:TusharLamba/TheEiffelFlour.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:TusharLamba/TheEiffelFlour.git
