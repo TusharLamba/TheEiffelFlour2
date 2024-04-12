@@ -1,0 +1,54 @@
+24102023	16:59:06	/user/register	Error		
+
+24102023	17:11:14	/user/register	Error		
+
+24102023	17:12:47	/user/register	Error		
+
+24102023	17:12:52	/user/register	Error		
+
+24102023	17:13:11	/user/register	Error		
+
+24102023	17:13:41	/user/register	Error		
+
+24102023	17:14:18	/user/register	Error		
+
+24102023	17:14:19	/user/register	Error		
+
+24102023	17:14:20	/user/register	Error		
+
+24102023	17:16:28	/user/register	Error		
+
+24102023	17:17:33	/user/register	Error		
+
+24102023	17:20:54	/user/register	Error		Class constructor User cannot be invoked without 'new'
+
+24102023	17:21:45	/user/register	Error		DB Error
+
+24102023	17:22:31	/user/register	Error		DB Error
+
+24102023	17:23:08	/user/register	Error		null value in column "username" of relation "users" violates not-null constraint
+
+01022024	12:23:15	/user/register	Error		data and salt arguments required
+
+01022024	12:24:18	/user/register	SyntaxError		Unexpected token u in JSON at position 7
+
+01022024	12:26:27	/user/register	SyntaxError		Unexpected token ' in JSON at position 7
+
+01022024	12:26:54	/user/register	SyntaxError		Unexpected token ' in JSON at position 19
+
+01022024	12:27:15	/user/register	Error		relation "users" does not exist
+
+01022024	12:28:08	/user/register	Error		syntax error at or near "user"
+
+01022024	12:31:22	/user/register	Error		syntax error at or near "user"
+
+01022024	12:33:33	/user/register	Error		insert or update on table "user" violates foreign key constraint "user_email_fkey"
+
+01022024	12:41:53	/user/register	Error		insert or update on table "user" violates foreign key constraint "user_email_fkey"
+
+01022024	17:10:53	/product/saveAll	SyntaxError		Unexpected string in JSON at position 179
+
+01022024	17:11:51	/product/saveAll	SyntaxError		Unexpected string in JSON at position 179
+
+01022024	17:12:15	/product/saveAll	SyntaxError		Unexpected string in JSON at position 179
+
